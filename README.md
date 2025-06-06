@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Mahmud0808/ResumeAI.git
+git clone https://github.com/SAITAMA40/ResumeAI.git
 cd ResumeAI
 ```
 
@@ -124,4 +124,6 @@ As of February 2025, the user limit of 500 has been exceeded. To test the websit
 
 Wanna reach out to me? DM me at 👇
 
-Email: mahmudul15-13791@diu.edu.bd
+Email: onepunchmansensei40@gmail.com
+
+GitHub: [SAITAMA40](https://github.com/SAITAMA40)
